@@ -128,5 +128,5 @@ services:
 ## Решение 5
 1. Docker по-умолчанию ищет два файла compose.yaml|yml либо docker-compose.yaml|yml в данном случае есть оба. Если есть оба приоритет отдается файлу compose.yaml.
 2. ![compose](img/04.png)
-6. ![portainer](img/05.png)
-7. ![compose_orphans](img/06.png)
+6. ![portainer](img/05.png)--
+7. ![compose_orphans](img/06.png)--
