@@ -16,9 +16,9 @@ See 'snap info docker' for additional versions.
 ### Решение 0
 
 1. docker-compose не установлен.
-![docker-compose не установлен.](/img/01.png)
+![docker-compose не установлен.](img/01.png)
 2. docker compose присутствует.
-![docker compose установлен.](/img/02.png)
+![docker compose установлен.](img/02.png)
 
 ---
 
@@ -36,9 +36,9 @@ See 'snap info docker' for additional versions.
 
 ### Решение 1
 Смотрим содержимое контейнера. С виду все корректно.
-![Содержимое контейнера](/img/04.png)
+![Содержимое контейнера](img/04.png)
 Пытаемся запустить для проверки, запускается но падает с ошибкой подключения к БД.
-![Попытка запуска](/img/05.png)
+![Попытка запуска](img/05.png)
 
 ---
 
@@ -59,7 +59,7 @@ See 'snap info docker' for additional versions.
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
 ### Решение 3
-![Содержимое таблицы](/img/06.png)
+![Содержимое таблицы](img/06.png)
 ---
 
 ## Задача 4
@@ -70,9 +70,10 @@ See 'snap info docker' for additional versions.
 6. В качестве ответа повторите  sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
 
 ### Решение 4
-![содержимое таблицы](/img/07.png)
+![содержимое таблицы](img/07.png)
 
-!(https://github.com/michel-baykoff/shvirtd-example-python)
+[fork репозитория](https://github.com/michel-baykoff/shvirtd-example-python/)
+
 bash-script (Так же есть в форке репозитория)
 
 ```
