@@ -16,8 +16,11 @@ See 'snap info docker' for additional versions.
 ### Решение 0
 
 1. docker-compose не установлен.
+
 ![docker-compose не установлен.](img/01.png)
+
 2. docker compose присутствует.
+
 ![docker compose установлен.](img/02.png)
 
 ---
